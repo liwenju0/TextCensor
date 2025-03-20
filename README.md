@@ -1,2 +1,2 @@
 # TextCensor
-An efficient text detection framework implemented in C++ 
+An efficient illegal text detection framework implemented in C++ 
